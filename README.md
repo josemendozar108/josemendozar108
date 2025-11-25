@@ -1,16 +1,29 @@
-## Hi there 👋
+# 👋 Hola, soy Jose Mendoza
 
-<!--
-**josemendozar108/josemendozar108** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Desarrollador Web **Frontend**, enfocado en JavaScript, React y Next.js.  
+Apasionado por construir interfaces limpias, resolver problemas y aprender tecnologías modernas.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 Tecnologías principales
+
+**Frontend:**
+- JavaScript (ES6+)
+- React.js
+- Next.js
+- TypeScript
+- TailwindCSS
+
+**Otras herramientas:**
+- Git / GitHub
+- Postman
+- Deployment (Vercel / Netlify)
+
+
+## 📫 ¿Quieres contactarme?
+- **LinkedIn:** [https://www.linkedin.com/in/josearmandomendoza/] 
+- **Email:** *josemendozar108@gmail.com*  
+
+---
+
+⭐ *Gracias por visitar mi perfil. Siempre estoy aprendiendo y mejorando mis proyectos.*
