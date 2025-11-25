@@ -1,4 +1,4 @@
-# 👋 Hola, soy Jose Mendoza
+# 👋 Hola, soy Jose Armando Mendoza 
 
 Desarrollador Web **Frontend**, enfocado en JavaScript, React y Next.js.  
 Apasionado por construir interfaces limpias, resolver problemas y aprender tecnologías modernas.
