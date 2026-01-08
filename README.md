@@ -26,4 +26,3 @@ Apasionado por construir interfaces limpias, resolver problemas y aprender tecno
 
 ---
 
-⭐ *Gracias por visitar mi perfil. Siempre estoy aprendiendo y mejorando mis proyectos.*
